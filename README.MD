@@ -26,7 +26,7 @@ Usage
 
 Set attributes and methods as key and values for 'before' or 'after' arrays.
 Depending on arrays, the method will be executed before or after model saving.
-Object's methods shold be public
+Object's methods should be public
 ```php    
     public function behaviors()
     {
