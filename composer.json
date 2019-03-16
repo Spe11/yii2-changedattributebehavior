@@ -1,0 +1,24 @@
+{
+    "name": "spe11/changedattribute",
+    "description": "Yii2 active record behaviour that helps to set execution logic when some attribute has been changed",
+    "keywords": [
+        "yii2",
+        "yii2 behaviors"
+    ],
+    "license": "MIT",
+    "require": {
+        "yiisoft/yii2": "^2.0@dev"
+    },
+    "authors": [
+        {
+            "name": "Spe11",
+            "email": "Serg41-lineage@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "spe11\\changedattribute\\": ""
+        }
+    }
+}
